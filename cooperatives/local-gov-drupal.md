@@ -19,7 +19,17 @@ parent: Cooperatives
 
 ## Description
 
-LocalGov Drupal is a collection of modifications to Drupal 8 to address needs that are common to council websites in the United Kingdom.
+LocalGov Drupal is a collection of modifications to Drupal 10 to address needs that are common to council websites in the United Kingdom and Ireland. It is also being tested for reuse in other UK public sector settings, and by organisations from several other countries.
+
+The product suite also includes LocalGov Drupal Microsites which allow organisations to run many small sites from a single Drupal instance, and LocalGov Drupal Forms for basic form building. The team is pursuing deep integrations with leading case management and call centre software, for example [Netcall](https://localgovdrupal.org/news/2024/localgov-drupal-and-netcall-mark-year-successful-collaboration).
+
+The work was originally funded by the [UK Government Department of Levelling Up, Housing & Communities](https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities). In December 2023 state funding came to an end, and councils and suppliers using LocalGov Drupal founded the [Open Digital Cooperative](https://opendigital.coop/) to continue development.
+
+LocalGov Drupal is now financially self sustaining, supported by membership fees paid by contributors - mandatory for Drupal suppliers and voluntary for councils. 
+
+The co-operative is run by a board of directors, elected annually by the community. Separate Technical and Product Groups convene monthly to oversee development. 
+
+## History
 
 In October of 2019, [the UK’s Ministry of Housing, Communities and Local Government announced](https://mhclgdigital.blog.gov.uk/2019/10/31/weve-funded-more-collaborative-projects-through-the-local-digital-fund/):
 
@@ -30,5 +40,3 @@ In October of 2019, [the UK’s Ministry of Housing, Communities and Local Gover
 The work was performed by council employees, with support from procured agencies rather than by a single vendor. They worked in public, prodicing notes on the results of each sprint (e.g., [sprint 3](https://agile.coop/blog/local-gov-drupal-sprint-3-notes/)).
 
 In December 2020, [Croydon announced they had switched over to running LocalGov Drupal on the council’s new website](https://croydon.digital/2020/12/17/croydon-goes-live-with-localgov-drupal/), and that work was actively being done on the code base by Croydon, Bracknell Forest, Brighton, Lambeth, Waltham Forest, and Westminster.
-
-They receive funding from the Ministry of Housing, Communities and Local Government.
